@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740210156601",
+    "project_id": "projeto-sillicon2",
+    "storage_bucket": "projeto-sillicon2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740210156601:android:20a8d1170ad60072c3d9e8",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740210156601-sp0u3n1dg483cr5j7h4k7722dho45etp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEbo_meOyuJXvoJWAgdQmakNy-GkjuekA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740210156601-sp0u3n1dg483cr5j7h4k7722dho45etp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

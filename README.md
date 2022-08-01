@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project with Firebase.
+A new Flutter project with Firebase. It's a simple app to add, edit and delete products and prices in a list. The data is saved in a firebase database.
 
 
 This project is a starting point for a Flutter application.
